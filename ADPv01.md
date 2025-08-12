@@ -44,24 +44,30 @@ Real-time routing decisions and delegation results
 The API uses consistent error handling, request logging, and JSON response formatting throughout.
 
 External Dependencies
+
 Database Integration
 Drizzle ORM: Type-safe database toolkit with PostgreSQL dialect configuration
 @neondatabase/serverless: Serverless PostgreSQL driver for cloud deployment
+
 Frontend Framework
 React 18: Core frontend framework with modern hooks and concurrent features
 Vite: Fast development server and build tool with TypeScript support
 TanStack Query: Server state management with caching and synchronization
+
 UI Component System
 shadcn/ui: Component library built on Radix UI primitives
 Radix UI: Comprehensive set of accessible, unstyled UI components
 Tailwind CSS: Utility-first CSS framework with custom design tokens
+
 Real-time Communication
 WebSocket (ws): Native WebSocket implementation for real-time updates
 Custom WebSocket client: Browser-based WebSocket client with reconnection logic
+
 Development Tools
 TypeScript: Static type checking throughout the application
 Zod: Runtime schema validation and type inference
 ESBuild: Fast JavaScript bundler for production builds
+
 Styling and Design
 Tailwind CSS: Utility-first styling with custom color scheme and design tokens
 Class Variance Authority: Type-safe component variant management
