@@ -1,4 +1,5 @@
 ADP (Alignment Delegation Protocol) System Overview (v01)
+
 This is a comprehensive web application that implements the Alignment Delegation Protocol (ADP), a system designed for intelligent routing and delegation of queries to specialized narrow models (NMs). The system functions as a demonstration platform for AI model coordination, featuring real-time monitoring, health tracking, and message routing capabilities.
 
 The application serves as both a working implementation of ADP and a live demonstration environment, allowing users to submit queries that are intelligently routed to appropriate narrow models based on domain expertise, current load, and health status.
